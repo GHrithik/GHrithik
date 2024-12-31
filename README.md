@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m an enthusiastic **Java Developer** and a **3
 
 ## 📂 **Projects**
 Here are a few of my highlighted repositories:  
-- 🚀 [Portfolio Website](https://github.com/GHrithik/myPortfolioWeb)  
+- 🚀 [Portfolio Website](https://ghrithik.github.io/rvPortfolioWeb/)  
 - 🛠️ [Backend API for E-Commerce](https://github.com/GHrithik/EcommerceAPI)  
 - 💻 [Student Management System](https://github.com/GHrithik/StudentManagementSystem)  
 
